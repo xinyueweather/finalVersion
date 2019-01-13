@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Xinyue Weather</string>
+    <string name="search_location">Search Location</string>
+    <string name="settings">Settings</string>
+</resources>
